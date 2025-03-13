@@ -1,3 +1,7 @@
+Na pasta front end do projeto para executar a parte grafica execute npx expo start e scaneie o qd code usando ap app EXPO
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
