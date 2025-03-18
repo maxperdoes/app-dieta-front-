@@ -1,4 +1,5 @@
-Na pasta front end do projeto para executar a parte grafica execute npx expo start e scaneie o QR CODE usando ap app EXPO
+Na pasta front end do projeto para executar a parte grafica execute no cmd do windows, npx expo start e scaneie o QR CODE usando ap app EXPO
+no celular para abrir o projeto
 
 
 
